@@ -1,0 +1,140 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "C:/Users/user/OneDrive/Documents/GitHub/AtriusRepository-GitHubDesktop"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/user/AppData/Local/Temp/Rar$DIa11344.45538/untitled.tmx": {
+            "scale": 0.268375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1585.4680950163015,
+                "y": 1602.2356776897998
+            }
+        },
+        "C:/Users/user/AppData/Local/Temp/Rar$DIa11728.18811/main-map.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 15359.909090909092,
+                "y": 5119.909090909091
+            }
+        },
+        "C:/Users/user/AppData/Local/Temp/Rar$DIa11728.18811/main-map.tmx#Images": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/AppData/Local/Temp/Rar$DIa11728.18811/main-map.tmx#homeland_tiles": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/AppData/Local/Temp/Rar$DRa16228.13088/Maps-master/main.json#Images": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/AppData/Local/Temp/Rar$DRa16228.13088/Maps-master/main.json#homeland_tiles": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/OneDrive/Desktop/Development/Homeland Invasion - Atrius 2021.json": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2241.6666666666665,
+                "y": 7039.666666666666
+            }
+        },
+        "C:/Users/user/OneDrive/Desktop/Development/Homeland Invasion - Atrius 2021.json#Images": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/user/OneDrive/Desktop/Development/Homeland Invasion - Atrius 2021.json#homeland_tiles": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/OneDrive/Desktop/Development/main..tmx#Images": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/OneDrive/Desktop/Development/main..tmx#homeland_tiles": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/OneDrive/Desktop/Homeland Invasion - Atrius 2021.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 7650.5,
+                "y": -2405
+            }
+        },
+        "C:/Users/user/OneDrive/Desktop/Homeland Invasion - Atrius 2021.json#Images": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/OneDrive/Desktop/Homeland Invasion - Atrius 2021.json#homeland_tiles": {
+            "scaleInDock": 1
+        },
+        "C:/Users/user/homeland_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled/at_online-tiles-summer2-tiled.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tiled/homeland_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "homeland_tiles..tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 15359.5,
+                "y": 5119
+            }
+        },
+        "main.json#Images": {
+            "scaleInDock": 1
+        },
+        "main.json#homeland_tiles": {
+            "scaleInDock": 1
+        },
+        "untitled.tmx": {
+            "scale": 0.268375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1581.7419655333024,
+                "y": 1596.6464834653004
+            }
+        }
+    },
+    "lastUsedTilesetExportFilter": "All Files (*)",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+    ],
+    "project": "Atrius 2020.tiled-project",
+    "property.type": "file",
+    "recentFiles": [
+        "C:/Users/user/AppData/Local/Temp/Rar$DIa11728.18811/main-map.tmx",
+        "C:/Users/user/OneDrive/Desktop/Development/Homeland Invasion - Atrius 2021.json",
+        "C:/Users/user/OneDrive/Desktop/Development/main..tmx",
+        "untitled.tmx",
+        "C:/Users/user/OneDrive/Desktop/Homeland Invasion - Atrius 2021.json",
+        "homeland_tiles..tsx",
+        "Tiled/homeland_tiles.tsx",
+        "main.json",
+        "Tiled/at_online-tiles-summer2-tiled.tsx",
+        "Tiled/untitled.tmx",
+        "C:/Users/user/AppData/Local/Temp/Rar$DIa11344.45538/untitled.tmx",
+        "C:/Users/user/homeland_tiles.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
